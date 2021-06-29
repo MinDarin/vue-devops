@@ -33,7 +33,7 @@ jobs:
       - name: Install dependencies
         run: yarn install
 
-      - name: Build page
+        - name: Build page
         run: yarn build
         env:
           NODE_ENV: production
