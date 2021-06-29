@@ -1,4 +1,6 @@
 module.exports = {
-  publicPath: "/vue-devops/",
-  outputDir : "dist"
-} 
+  preset: "@vue/cli-plugin-unit-jest",
+  transform: {
+    "^.+\\.vue$": "vue-jest",
+  },
+};
