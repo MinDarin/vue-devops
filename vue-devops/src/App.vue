@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to 김민석 App" />
+  <HelloWorld msg="Welcome to 테스트 성공 App" />
 </template>
 
 <script>
