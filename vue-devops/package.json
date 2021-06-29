@@ -1,7 +1,7 @@
 {
   "name": "vue-devops",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepgae": "https://MinDarin.github.io/vue-devops",
   "scripts": {
     "serve": "vue-cli-service serve",
